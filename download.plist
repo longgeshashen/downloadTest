@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://ssl-1258245847.cos.ap-beijing.myqcloud.com/IPA/HDHuNanMuseum.ipa</string>
+					<string>https://package.higame.cn/mxy/mengxiyou-180202.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hengdawb.HDHuNanMuseumEnter</string>
+				<string>com.mxy.hg</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>副标题（非必填）</string>
+				<string>欢迎下载</string>
 				<key>title</key>
-				<string>湖南省博物馆</string>
+				<string>梦西游</string>
 			</dict>
 		</dict>
 	</array>
