@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://ssl-1258245847.cos.ap-beijing.myqcloud.com/IPA/HDHuNanMuseum.ipa?q-sign-algorithm=sha1&amp;q-ak=AKIDNYM8Os54Evn3g6kpZ4CVUrl1GpQAdaUD&amp;q-sign-time=1544170598;1544172398&amp;q-key-time=1544170598;1544172398&amp;q-header-list=&amp;q-url-param-list=&amp;q-signature=7e4d7c6f82a23b116fd832fccfe51784194f8b56&amp;x-cos-security-token=eda61ee4e35e685b54b18c7d427c2892ed3c4f5e10001</string>
+					<string>https://ssl-1258245847.cos.ap-beijing.myqcloud.com/IPA/HDHuNanMuseum.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
